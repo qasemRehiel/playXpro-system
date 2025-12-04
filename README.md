@@ -1,2 +1,31 @@
-# playXpro-system
-نظام متقدم على الاندرويد لادارة صالات الالعاب والمقاهي
+# 🎮 PlayX Pro System
+
+**PlayX Pro System** هو تطبيق حديث لإدارة صالات الألعاب، يشمل إدارة الأدوار، الأجهزة، متابعة الأرباح، الجرد المتقدم، ونظام فلترة متطور. يتميز بواجهة عصرية وسلسة ومزامنة سحابية عبر Firebase، ومصمم للعمل على أجهزة التابلت بنظام أندرويد.
+
+---
+
+## ⭐ المميزات الأساسية
+1. إدارة الأدوار وصلاحيات المستخدمين في الصالة.  
+2. إدارة جميع أجهزة الألعاب وتتبع حالتها.  
+3. متابعة الأرباح والعائدات لكل جهاز أو صالة.  
+4. إدارة المخزون والجرد المتقدم مع نظام فلترة.  
+5. واجهة عصرية وسهلة الاستخدام، مناسبة للتابلت.  
+6. مزامنة سحابية مع Firebase لضمان حفظ البيانات وتحديثها بشكل فوري.
+
+---
+
+## 🛠 التقنيات المستخدمة
+<div style="display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</div>
+
+---
+
+## 📱 تحميل التطبيق لأندرويد
+<a href="[YOUR_ANDROID_DOWNLOAD_LINK](https://drive.google.com/file/d/1T1EqnIOgSetQSjDpt8HXbLAFgYutKGfY/view?usp=sharing)" target="_blank">
+  <img src="https://img.shields.io/badge/تحميل_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
+</a>
