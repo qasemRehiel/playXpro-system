@@ -26,6 +26,6 @@
 ---
 
 ## 📱 تحميل التطبيق لأندرويد
-<a href="[YOUR_ANDROID_DOWNLOAD_LINK](https://drive.google.com/file/d/1T1EqnIOgSetQSjDpt8HXbLAFgYutKGfY/view?usp=sharing)" target="_blank">
+<a href="https://drive.google.com/file/d/1T1EqnIOgSetQSjDpt8HXbLAFgYutKGfY/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/تحميل_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android">
 </a>
