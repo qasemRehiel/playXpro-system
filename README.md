@@ -1,7 +1,6 @@
 # 🎮 PlayX Pro System
 
-<!-- Badge YouTube في البداية -->
-[![شاهد الفيديو على YouTube](https://img.shields.io/badge/شاهد_على_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![شاهد الفيديو على YouTube](https://img.shields.io/badge/شاهد_على_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/wG-3nNHJCm8?feature=share)
 
 **PlayX Pro System** هو تطبيق حديث لإدارة صالات الألعاب والمقاهي، يشمل إدارة الأدوار، الأجهزة، متابعة الأرباح، الجرد المتقدم، نظام فلترة متطور، وإدارة عمليات البيع بشكل كامل. يتميز بواجهة عصرية وسلسة ومزامنة سحابية عبر Firebase، ومصمم للعمل على أجهزة التابلت بنظام أندرويد.
 
